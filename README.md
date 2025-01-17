@@ -12,9 +12,9 @@ This project implements image-driven video segmentation for surveillance, levera
 # System Architecture
 The system integrates the following technologies:
 
-**YOLOv10:** For efficient face detection.
-**OpenCV:** For frame extraction, face recognition, and video processing.
-**Streamlit:** For a simple and interactive user interface.
+1. **YOLOv10:** For efficient face detection.
+2. **OpenCV:** For frame extraction, face recognition, and video processing.
+3. **Streamlit:** For a simple and interactive user interface.
 
 # Process Flow
 **Input:**
@@ -22,9 +22,9 @@ The system integrates the following technologies:
 2. Upload a reference image (e.g., .jpg, .png)
 
 # Processing:
-YOLOv10 detects faces in video frames.
-OpenCV matches detected faces with the reference image.
-Frames with matches are compiled into a new video.
+1. YOLOv10 detects faces in video frames.
+2. OpenCV matches detected faces with the reference image.
+3. Frames with matches are compiled into a new video.
 
 # Output:
 A downloadable video containing relevant segments is generated.
@@ -38,21 +38,21 @@ A downloadable video containing relevant segments is generated.
 2. A person image (e.g., .jpg, .png).
 
 **Eg.**
-[![Input Image]](https://github.com/dip2109/Video-Segmentation-Retrieval-For-Image-Driven-Person-Recognition-for-surveillance/blob/main/Tom_Cruise.jpg)
-[![Input Video]](https://github.com/dip2109/Video-Segmentation-Retrieval-For-Image-Driven-Person-Recognition-for-surveillance/blob/main/video_footage.mp4)
+1. [![Input Image]](https://github.com/dip2109/Video-Segmentation-Retrieval-For-Image-Driven-Person-Recognition-for-surveillance/blob/main/Tom_Cruise.jpg)
+2. [![Input Video]](https://github.com/dip2109/Video-Segmentation-Retrieval-For-Image-Driven-Person-Recognition-for-surveillance/blob/main/video_footage.mp4)
 
 **Output**
 Download the processed video with highlighted segments.
-[![Output Video]](https://github.com/dip2109/Video-Segmentation-Retrieval-For-Image-Driven-Person-Recognition-for-surveillance/blob/main/segmented_video.mp4)
+1. [![Output Video]](https://github.com/dip2109/Video-Segmentation-Retrieval-For-Image-Driven-Person-Recognition-for-surveillance/blob/main/segmented_video.mp4)
 
 
 # Technologies Used
-1. YOLOv10: For high-performance face detection.
-2. OpenCV: For frame processing and face recognition.
-3. Streamlit: For the interactive user interface.
+**1. YOLOv10:** For high-performance face detection.
+**2. OpenCV:** For frame processing and face recognition.
+**3. Streamlit:** For the interactive user interface.
 
 # Future Scope
-1. Enhanced Detection: Improve the system's ability to handle occluded or low-quality faces.
-2. Real-Time Processing: Leverage advanced GPU acceleration for faster video analysis.
-3. Advanced Features: Add multi-face detection and tracking capabilities.
+**1. Enhanced Detection:** Improve the system's ability to handle occluded or low-quality faces.
+**2. Real-Time Processing:** Leverage advanced GPU acceleration for faster video analysis.
+**3. Advanced Features:** Add multi-face detection and tracking capabilities.
 
