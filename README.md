@@ -4,10 +4,10 @@
 This project implements image-driven video segmentation for surveillance, leveraging YOLOv10 and OpenCV for efficient face detection, recognition, and video processing. By analyzing video footage based on a reference image, the system identifies specific individuals and segments relevant clips for streamlined surveillance and analysis. Designed for real-time applications, it is an effective tool for law enforcement and public safety.
 
 # Key Features
-**1. Real-Time Detection and Segmentation:** Fast and accurate face detection powered by YOLOv10.
-**2. Image-Driven Person Recognition:** Matches faces in video frames with a provided image for targeted surveillance.
-**3. Automated Video Clipping:** Outputs video segments focusing on frames with the identified person.
-**4. User-Friendly Interface:** Built with Streamlit for intuitive interaction.
+1. **Real-Time Detection and Segmentation:** Fast and accurate face detection powered by YOLOv10.
+2. **Image-Driven Person Recognition:** Matches faces in video frames with a provided image for targeted surveillance.
+3. **Automated Video Clipping:** Outputs video segments focusing on frames with the identified person.
+4. **User-Friendly Interface:** Built with Streamlit for intuitive interaction.
 
 # System Architecture
 The system integrates the following technologies:
