@@ -38,12 +38,12 @@ A downloadable video containing relevant segments is generated.
 2. A person image (e.g., .jpg, .png).
 
 **Eg.**
-[![Input Image](https://github.com/dip2109/Video-Segmentation-Retrieval-For-Image-Driven-Person-Recognition-for-surveillance/blob/main/Tom_Cruise.jpg)]([https://example.com/full_image.jpg](https://github.com/dip2109/Video-Segmentation-Retrieval-For-Image-Driven-Person-Recognition-for-surveillance/blob/main/Tom_Cruise.jpg))
-![Input Video] ("C:\PROJECT's\ML Projects\Video Segmentation & Retrieval For Image Driven Person Recognition\Project_1_Demo_Final\video_footage.mp4")
+[![Input Image]](https://github.com/dip2109/Video-Segmentation-Retrieval-For-Image-Driven-Person-Recognition-for-surveillance/blob/main/Tom_Cruise.jpg)
+[![Input Video]](https://github.com/dip2109/Video-Segmentation-Retrieval-For-Image-Driven-Person-Recognition-for-surveillance/blob/main/video_footage.mp4)
 
 **Output**
 Download the processed video with highlighted segments.
-![Output Video]("C:\PROJECT's\ML Projects\Video Segmentation & Retrieval For Image Driven Person Recognition\Project_1_Demo_Final\segmented_video.mp4")
+[![Output Video]](https://github.com/dip2109/Video-Segmentation-Retrieval-For-Image-Driven-Person-Recognition-for-surveillance/blob/main/segmented_video.mp4)
 
 
 # Technologies Used
