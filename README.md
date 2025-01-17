@@ -48,9 +48,9 @@ Download the processed video with highlighted segments.
 
 
 # Technologies Used
-**YOLOv10:** For high-performance face detection.
-**OpenCV:** For frame processing and face recognition.
-**Streamlit:** For the interactive user interface.
+**1. YOLOv10:** For high-performance face detection.
+**2. OpenCV:** For frame processing and face recognition.
+**3. Streamlit:** For the interactive user interface.
 
 # Future Scope
 **1. Enhanced Detection:** Improve the system's ability to handle occluded or low-quality faces.
