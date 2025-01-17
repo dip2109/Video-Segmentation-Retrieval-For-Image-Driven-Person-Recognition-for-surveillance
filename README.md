@@ -46,12 +46,13 @@ Download the processed video with highlighted segments.
 ![Output Video]("C:\PROJECT's\ML Projects\Video Segmentation & Retrieval For Image Driven Person Recognition\Project_1_Demo_Final\segmented_video.mp4")
 
 
-Technologies Used
-YOLOv10: For high-performance face detection.
-OpenCV: For frame processing and face recognition.
-Streamlit: For the interactive user interface.
-Future Scope
-Enhanced Detection: Improve the system's ability to handle occluded or low-quality faces.
-Real-Time Processing: Leverage advanced GPU acceleration for faster video analysis.
-Advanced Features: Add multi-face detection and tracking capabilities.
+# Technologies Used
+1. YOLOv10: For high-performance face detection.
+2. OpenCV: For frame processing and face recognition.
+3. Streamlit: For the interactive user interface.
+
+# Future Scope
+1. Enhanced Detection: Improve the system's ability to handle occluded or low-quality faces.
+2. Real-Time Processing: Leverage advanced GPU acceleration for faster video analysis.
+3. Advanced Features: Add multi-face detection and tracking capabilities.
 
